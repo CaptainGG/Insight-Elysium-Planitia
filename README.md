@@ -9,3 +9,6 @@ Globe + map modes, animated flow fields, and optional audio-reactive wind **spee
 - Reads NASA InSight weather feed (with local cache + mock fallback)
 - Upload an audio file to modulate wind **speed** in real time (Insight Rover's Wind Sounds provided in the folder)
 - Respects `prefers-reduced-motion`
+
+
+Live Demo - https://2520593.playcode.io/ (Add the audio file in the folder)
