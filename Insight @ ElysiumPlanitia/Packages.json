@@ -1,0 +1,9 @@
+{
+  "name": "insight",
+  "type": "module",
+  "dependencies": {
+    "react": "18.0.0",
+    "three": "0.160.0",
+    "react-dom": "18.0.0"
+  }
+}
